@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QIz2t9ZVImyHowT9gJAR2I8T337UyOPxV0GBO2fsEQRmqVptJS2QIJhbYSnvx12CRL5HjL1Zljj4eITrcFgQsw==",
+  "success": true,
+  "projectFilePath": "C:\\Lalita_NewMachine\\2021\\Project\\MMTShopWebApi\\MMTShopClient\\MMTShopClient\\MMTShopClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lalitak\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

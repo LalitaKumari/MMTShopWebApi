@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Lalita_NewMachine\\2021\\Project\\MMTShopWebApi\\MMTShop.Core\\MMTShop.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Lalita_NewMachine\\2021\\Project\\MMTShopWebApi\\MMTShop.Core\\MMTShop.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Lalita_NewMachine\\2021\\Project\\MMTShopWebApi\\MMTShop.Core\\MMTShop.Core.csproj",
+        "projectName": "MMTShop.Core",
+        "projectPath": "C:\\Lalita_NewMachine\\2021\\Project\\MMTShopWebApi\\MMTShop.Core\\MMTShop.Core.csproj",
+        "packagesPath": "C:\\Users\\lalitak\\.nuget\\packages\\",
+        "outputPath": "C:\\Lalita_NewMachine\\2021\\Project\\MMTShopWebApi\\MMTShop.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lalitak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://tst.workspace.dt.net/InternalNugetHost/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

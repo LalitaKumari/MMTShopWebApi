@@ -1,0 +1,12 @@
+C:\Lalita_NewMachine\2021\Project\MMTShopWebApi\MMTShop.Core\bin\Debug\net5.0\MMTShop.Core.deps.json
+C:\Lalita_NewMachine\2021\Project\MMTShopWebApi\MMTShop.Core\bin\Debug\net5.0\MMTShop.Core.dll
+C:\Lalita_NewMachine\2021\Project\MMTShopWebApi\MMTShop.Core\bin\Debug\net5.0\ref\MMTShop.Core.dll
+C:\Lalita_NewMachine\2021\Project\MMTShopWebApi\MMTShop.Core\bin\Debug\net5.0\MMTShop.Core.pdb
+C:\Lalita_NewMachine\2021\Project\MMTShopWebApi\MMTShop.Core\obj\Debug\net5.0\MMTShop.Core.csprojAssemblyReference.cache
+C:\Lalita_NewMachine\2021\Project\MMTShopWebApi\MMTShop.Core\obj\Debug\net5.0\MMTShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lalita_NewMachine\2021\Project\MMTShopWebApi\MMTShop.Core\obj\Debug\net5.0\MMTShop.Core.AssemblyInfoInputs.cache
+C:\Lalita_NewMachine\2021\Project\MMTShopWebApi\MMTShop.Core\obj\Debug\net5.0\MMTShop.Core.AssemblyInfo.cs
+C:\Lalita_NewMachine\2021\Project\MMTShopWebApi\MMTShop.Core\obj\Debug\net5.0\MMTShop.Core.csproj.CoreCompileInputs.cache
+C:\Lalita_NewMachine\2021\Project\MMTShopWebApi\MMTShop.Core\obj\Debug\net5.0\MMTShop.Core.dll
+C:\Lalita_NewMachine\2021\Project\MMTShopWebApi\MMTShop.Core\obj\Debug\net5.0\ref\MMTShop.Core.dll
+C:\Lalita_NewMachine\2021\Project\MMTShopWebApi\MMTShop.Core\obj\Debug\net5.0\MMTShop.Core.pdb

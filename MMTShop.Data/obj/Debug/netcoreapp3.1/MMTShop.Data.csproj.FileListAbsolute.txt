@@ -1,0 +1,12 @@
+C:\Lalita_NewMachine\2021\Project\MMTShopWebApi\MMTShop.Data\bin\Debug\netcoreapp3.1\MMTShop.Data.deps.json
+C:\Lalita_NewMachine\2021\Project\MMTShopWebApi\MMTShop.Data\bin\Debug\netcoreapp3.1\MMTShop.Data.dll
+C:\Lalita_NewMachine\2021\Project\MMTShopWebApi\MMTShop.Data\bin\Debug\netcoreapp3.1\MMTShop.Data.pdb
+C:\Lalita_NewMachine\2021\Project\MMTShopWebApi\MMTShop.Data\obj\Debug\netcoreapp3.1\MMTShop.Data.csprojAssemblyReference.cache
+C:\Lalita_NewMachine\2021\Project\MMTShopWebApi\MMTShop.Data\obj\Debug\netcoreapp3.1\MMTShop.Data.AssemblyInfoInputs.cache
+C:\Lalita_NewMachine\2021\Project\MMTShopWebApi\MMTShop.Data\obj\Debug\netcoreapp3.1\MMTShop.Data.AssemblyInfo.cs
+C:\Lalita_NewMachine\2021\Project\MMTShopWebApi\MMTShop.Data\obj\Debug\netcoreapp3.1\MMTShop.Data.csproj.CoreCompileInputs.cache
+C:\Lalita_NewMachine\2021\Project\MMTShopWebApi\MMTShop.Data\obj\Debug\netcoreapp3.1\MMTShop.Data.dll
+C:\Lalita_NewMachine\2021\Project\MMTShopWebApi\MMTShop.Data\obj\Debug\netcoreapp3.1\MMTShop.Data.pdb
+C:\Lalita_NewMachine\2021\Project\MMTShopWebApi\MMTShop.Data\bin\Debug\netcoreapp3.1\MMTShop.Core.dll
+C:\Lalita_NewMachine\2021\Project\MMTShopWebApi\MMTShop.Data\bin\Debug\netcoreapp3.1\MMTShop.Core.pdb
+C:\Lalita_NewMachine\2021\Project\MMTShopWebApi\MMTShop.Data\obj\Debug\netcoreapp3.1\MMTShop.Data.csproj.CopyComplete
